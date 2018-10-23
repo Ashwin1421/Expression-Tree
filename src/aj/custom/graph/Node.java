@@ -1,4 +1,4 @@
-package com.cloudninetech.graph;
+package aj.custom.graph;
 
 import java.util.HashMap;
 import java.util.Map;

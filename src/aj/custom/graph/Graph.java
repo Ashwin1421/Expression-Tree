@@ -1,4 +1,4 @@
-package com.cloudninetech.graph;
+package aj.custom.graph;
 
 public interface Graph {
     void addEdge(Node n1, Node n2);

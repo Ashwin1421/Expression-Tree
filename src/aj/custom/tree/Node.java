@@ -1,4 +1,4 @@
-package com.cloudninetech.tree;
+package aj.custom.tree;
 
 public class Node<T> {
     private T data;

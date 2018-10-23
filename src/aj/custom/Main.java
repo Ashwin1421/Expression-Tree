@@ -1,8 +1,8 @@
-package com.cloudninetech;
+package aj.custom;
 
-import com.cloudninetech.tree.Node;
-import com.cloudninetech.tree.SyntaxTree;
-import com.cloudninetech.tree.Tree;
+import aj.custom.tree.Node;
+import aj.custom.tree.SyntaxTree;
+import aj.custom.tree.Tree;
 
 import java.util.Arrays;
 
